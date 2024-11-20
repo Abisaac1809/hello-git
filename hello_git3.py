@@ -1,3 +1,2 @@
-x = 1
-t = 2
-print(x + t)
+print("Hello World")
+print("Nuevo Proyecto")
